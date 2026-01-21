@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-My name is Kathryn Morrison, and I'm a Master's student at Johns Hopkins University studying Biotechnology. I focus on bioinformatics, especially scientific computation concerning protein analysis.
+My name is Kathryn Morrison, and I am a recent Master's grad in Biotechnology at Johns Hopkins University. I focus on bioinformatics, especially scientific computation concerning protein analysis.
 
 - 🔭 I’m currently examining phosphorylation in the [RYR1 Protein](https://www.rcsb.org/structure/8X48), a protein that helps regulate skeletal muscle cell activity.
 - 🌱 I’m currently learning cutting-edge scientific computing tools and LLM-based tools for protein modeling and analysis.
